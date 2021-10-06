@@ -1,0 +1,10 @@
+POST http://localhost:80/api/position
+Content-Type: application/json
+
+{
+  "name": "Admin"
+}
+
+
+
+###
